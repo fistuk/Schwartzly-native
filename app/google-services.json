@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "119307056245",
+    "firebase_url": "https://schwartzly-6301c.firebaseio.com",
+    "project_id": "schwartzly-6301c",
+    "storage_bucket": "schwartzly-6301c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119307056245:android:2f9b6ea864365ff6",
+        "android_client_info": {
+          "package_name": "com.teamapp.schwartzly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119307056245-g4srtlke815fsc6pkkjtfg6jiou4fppr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamapp.schwartzly",
+            "certificate_hash": "37FA286B4EDD04BAC6C7380C609CBCCBE8B438E5"
+          }
+        },
+        {
+          "client_id": "119307056245-nlcprbobg3jbudlls1s8nda9lf6d9dc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE34h-YZ_jNWqvTK8IIpoTDPHVGGJ0mNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119307056245-nlcprbobg3jbudlls1s8nda9lf6d9dc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
